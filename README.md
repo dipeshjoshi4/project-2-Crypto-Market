@@ -1,6 +1,6 @@
 # project-1-crypto-market
 
-* [link](https://cryptomarketd.netlify.app)
+* [link](https://crypto-marke-fsjs.netlify.app)
 
 * this Landing Page That Just make your Crypto Website looks better.
 
