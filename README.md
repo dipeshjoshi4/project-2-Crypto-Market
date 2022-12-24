@@ -1,8 +1,8 @@
 # project-1-crypto-market
 
-* [link](https://fashion-hub-fsjs.netlify.app)
+* [link](https://crypto-marke-fsjs.netlify.app)
 
-* this Landing Page That Just make your fashion brands looks better.
+* this Landing Page That Just make your crypto business website looks better.
 
 * this is how it looks
 
