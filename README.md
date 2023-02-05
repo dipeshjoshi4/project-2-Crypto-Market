@@ -20,4 +20,4 @@
 
 
 ## Excepted Output
-<img src="output.png"  width="500" height="400">
+<img src="output.png"  width="700" height="500">
